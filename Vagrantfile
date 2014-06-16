@@ -7,7 +7,8 @@
 
 require File.dirname(__FILE__) + '/.vagrant.d/boxes.rb'
 
-BOX_NAME = 'precise'
+#BOX_NAME = 'precise'
+BOX_NAME = 'u64server'
 BOX = BOXES[BOX_NAME]
 
 
